@@ -1,12 +1,13 @@
 function myBulbasaur() {
-    windows.location.href='root/Work/javascript-challenge/bulbasaur.html'
+    alert("Hacked");
+    windows.location.href='/bulbasaur';
 }
 
 function myCharmander() {
-    windows.location.href='/charmander.html'
+    windows.location.href='/charmander.html';
 }
 
 function mySquirtle() {
-    windows.location.href='/squirtle.html'
+    windows.location.href='/squirtle.html';
 }
 
