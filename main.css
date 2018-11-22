@@ -1,0 +1,17 @@
+.introduction {
+    text-align: center;
+    font-family: 'Times New Roman', 'Arial';
+    color: FFFFFF;
+}
+
+.pokelink {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%
+}
+
+#heading {
+    color: rgb(234,126,47)
+}
+

@@ -1,13 +1,18 @@
 function myBulbasaur() {
-    alert("Hacked");
-    windows.location.href='/bulbasaur';
+    if (confirm("You are about to choose Bulbasaur. Are you sure?")) {
+        location.href='/root/Work/javascript-challenge/bulbasaur.html';
+    }
 }
 
 function myCharmander() {
-    windows.location.href='/charmander.html';
+    if(confirm("You are about to choose Charmander. Are you sure?")) {
+        location.href='/root/Work/javascript-challenge/charmander.html';
+    }
 }
 
 function mySquirtle() {
-    windows.location.href='/squirtle.html';
+    if(confirm("You are about to choose Charmander. Are you sure?")) {
+        location.href='/root/Work/javascript-challenge/squirtle.html';
+    }
 }
 
